@@ -11,6 +11,8 @@
 - **Multiple Models**: Linear Regression, XGBoost (R² ≈ 0.85)
 - **Live Dashboard**: Interactive, intuitive Streamlit front-end
 
+<img width="2536" height="1576" alt="ScreenShot" src="https://github.com/user-attachments/assets/b2958424-fa5c-4c04-82b4-19878a4f17b6" />
+
 ---
 
 ## 📤 Sample API Usage
